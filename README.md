@@ -1,2 +1,3 @@
-# sit232-banking-system
-Here i created a banking system using c#, utilising the concepts of OOPS
+### Banking System
+
+Big 4 banks use these algorithms, jk, written in C#, allows you to keep your money safe and secure.
